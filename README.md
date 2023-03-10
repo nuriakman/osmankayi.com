@@ -1,0 +1,3 @@
+# ComputerNotes
+
+- [Ubuntu](./linux)
